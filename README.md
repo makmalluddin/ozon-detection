@@ -1,0 +1,2 @@
+- Selecting features to be used in conducting analysis and performing exploratory data analysis (EDA).
+- Performing analysis of ozone level detection dataset using the random forest, gradient boosting, and vote classifier methods.
